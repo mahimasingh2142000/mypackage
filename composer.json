@@ -1,0 +1,26 @@
+{
+    "name": "mahimasingh2142000/mypackage",
+    "description": "A demo package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "Mahima Singh",
+        "email": "amit.singhanu@gmail.com"
+      }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+          "mahimasingh2142000\\myPackage\\": "src"
+        }
+      },
+      "scripts": {},
+
+  "repositories": [
+    {
+      "type": "path",
+      "url": "Desktop/Mahima_Workspace/packages/mypackage"
+    }
+  ]
+  }
